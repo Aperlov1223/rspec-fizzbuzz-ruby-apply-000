@@ -3,13 +3,13 @@
 
 def fizzbuzz(n)
   if n == % 3
-     ("Fizz")
+     "Fizz"
   elsif
      n == % 5
-     ("Buzz")
+     "Buzz"
   elsif n == % 15
-     ("FizzBuzz")
+     "FizzBuzz"
   else
-     ("nil")
+     "nil"
   end
 end
