@@ -3,7 +3,7 @@
 
 def fizzbuzz(n)
   if n == % 3
-    puts ("Fizz")
+     ("Fizz")
   elsif
      n == % 5
     puts ("Buzz")
