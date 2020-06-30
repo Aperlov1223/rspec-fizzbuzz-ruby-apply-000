@@ -2,8 +2,8 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(fizz_n)
-  if fizz_3 = fizzbuzz(3)
-    puts "Fizz"
+  if n == % 3
+  puts "Fizz"
   elsif
      n == % 5
      "Buzz"
