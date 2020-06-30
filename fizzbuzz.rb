@@ -3,11 +3,11 @@
 
 def fizzbuzz(int)
   if
-int % by 3
+int (% by 3)
     "Fizz"
-  elsif (int_is_divisible_by_5)
+  elsif int(% by 5)
     "Buzz"
-  elsif (int_is_divisible_by_3_and_5)
+  elsif int(% by 3 and 5)
     "FizzBuzz"
   else
     puts "nil"
