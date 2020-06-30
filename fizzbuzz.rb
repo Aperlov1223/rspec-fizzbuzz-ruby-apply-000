@@ -3,7 +3,7 @@
 
 def fizzbuzz(fizz_n)
   if fizz_3 = fizzbuzz(3)
-     "Fizz"
+    puts "Fizz"
   elsif
      n == % 5
      "Buzz"
