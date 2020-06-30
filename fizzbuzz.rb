@@ -6,10 +6,10 @@ def fizzbuzz(n)
      ("Fizz")
   elsif
      n == % 5
-    puts ("Buzz")
+     ("Buzz")
   elsif n == % 15
-    puts ("FizzBuzz")
+     ("FizzBuzz")
   else
-    puts ("nil")
+     ("nil")
   end
 end
