@@ -3,7 +3,7 @@
 
 def fizzbuzz(int)
   if
-    (int_is_divisible_by_3)
+int % by 3
     "Fizz"
   elsif (int_is_divisible_by_5)
     "Buzz"
