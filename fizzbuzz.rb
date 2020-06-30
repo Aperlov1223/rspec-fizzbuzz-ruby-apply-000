@@ -1,17 +1,14 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
 
-def fizzbuzz(fizz_n)
-  if number % 3 == 0
-   puts "Fizz"
-end
-if number % 5 == 0
-   puts "Buzz"
-end
-  elsif n == % 15
-     "FizzBuzz"
-   end
+def fizzbuzz(x)
+  if (x % 3 == 0) && (x % 5 == 0)
+    puts "Fizzbuzz"
+  elsif x % 3 == 0
+    puts " Fizz"
+  elsif x % 5 == 0
+    puts " Buzz"
   else
-     "nil"
+    puts "nil"
   end
 end
